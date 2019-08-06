@@ -1,0 +1,14 @@
+*{
+	margin: 0 !important
+}
+.ee{
+	background:url(https://www.3djuegos.com/juegos/607/world_of_warcraft/fotos/maestras/world_of_warcraft-2600259.jpg);
+background-repeat: no-repeat;
+	background-position: center;
+	background-size:cover;
+	width: 99%;
+	height: 500px;
+	color:#FFED0B;
+	font-size:50px
+
+}
